@@ -1,0 +1,7 @@
+1.tokens in python
+tokens makes up the building block.
+4 types:1.identifiers
+            -doesn't start with n
+        2.data-types
+        3.keywords
+        4.variables
